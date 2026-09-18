@@ -32,10 +32,6 @@ Arduino-based proximity-controlled audio-visual feedback system using an HC-SR04
    an LED brightness between 30 (dim, far) and 255 (bright, close), 
    written via `analogWrite()`.
 
-7. **Log for debugging:** Each loop prints the measured distance to 
-   Serial Monitor at 9600 baud, useful for tuning the range and testing 
-   sensor reliability.
-
 ## Key Functions Used
 - `pulseIn()` — measures echo pulse duration for distance calculation
 - `map()` — converts distance readings into frequency and brightness ranges
