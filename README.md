@@ -44,7 +44,7 @@ Arduino-based proximity-controlled audio-visual feedback system using an HC-SR04
 - `Serial.print()` — outputs live distance readings for debugging
 
 ## Files
-- `ultrasonic_theremin.ino` — full Arduino sketch
+- `proximity_controlled_feedback_system.ino` — full Arduino sketch
 
 ## Author
 Aren Khachaturian — Electrical Engineering, UCLA  
